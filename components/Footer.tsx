@@ -70,7 +70,7 @@ const socialLinks = [
   },
   {
     label: 'LinkedIn',
-    href: '#',
+    href: 'https://www.linkedin.com/in/raja-kumar-cse',
     icon: (
       <svg className="h-5 w-5" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
         <path d="M6.94 8.5H3.56V20h3.38V8.5ZM5.25 3A2.03 2.03 0 1 0 5.3 7.06 2.03 2.03 0 0 0 5.25 3ZM20.44 13.06c0-3.45-1.84-5.06-4.3-5.06a3.72 3.72 0 0 0-3.36 1.85V8.5H9.41c.04.9 0 11.5 0 11.5h3.38v-6.42c0-.34.02-.68.12-.92.27-.68.88-1.39 1.9-1.39 1.35 0 1.89 1.04 1.89 2.56V20H20v-6.94Z" />
