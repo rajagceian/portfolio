@@ -25,7 +25,7 @@ const footerSections = [
     title: 'Profiles',
     links: [
       { label: 'GitHub', href: 'https://github.com/rajagceian' },
-      { label: 'LinkedIn', href: '#' },
+      { label: 'LinkedIn', href: 'https://www.linkedin.com/in/raja-kumar-cse' },
       { label: 'LeetCode', href: 'https://leetcode.com/u/rajagceian/' },
     ],
   },
